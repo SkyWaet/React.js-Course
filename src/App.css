@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -70,3 +70,9 @@ address{
   background-color: #512DA8;
 }
 
+.media{
+  text-align: left;
+}
+h3{
+  text-align: left;
+}
